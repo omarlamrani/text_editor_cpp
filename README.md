@@ -1,1 +1,1 @@
-An implementation of a VIM-like terminal text editor using C++
+An implementation of a VIM-like terminal text editor using C++.
